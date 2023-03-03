@@ -27,8 +27,6 @@
 	<li>Select the output unit from the picker.</li>
 	<li>The converted value will be displayed in the output field.</li>
 </ol>
-<h2>Contributing</h2>
-<p>This project is not open for contributions at this time.</p>
 <h2>Credits</h2>
 <p>This project was created by Jack Geng, inspired by App Team Carolina.</p>
 
