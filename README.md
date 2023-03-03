@@ -19,8 +19,8 @@
 	<li>Open the project in Xcode</li>
 	<li>Run the project in the simulator or on a physical device</li>
 </ol>
-<img alt="Screenshot 2023-02-21 at 16 49 03" src="https://user-images.githubusercontent.com/103839282/220466557-8188323d-6065-4570-8459-5e35a2514c9d.png" width="256px">
 <h2>Usage</h2>
+<img alt="Screenshot 2023-02-21 at 16 49 03" src="https://user-images.githubusercontent.com/103839282/220466557-8188323d-6065-4570-8459-5e35a2514c9d.png" width="256px">
 <ol>
 	<li>Enter a volume value in the input field.</li>
 	<li>Select the input unit from the picker.</li>
