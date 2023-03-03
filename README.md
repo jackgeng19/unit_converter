@@ -1,6 +1,6 @@
 <h1>📐 Volume Conversion Calculator</h1>
 <span>
-<img alt="Screenshot" src="Screen-Recording-2023-03-03-at-00.01.32.gif" width="256px">
+<img alt="Screenshot" src="Screen-Recording-2023-03-03-at-00.01.32.gif" width="200px">
 <p>This is a simple volume conversion calculator built using SwiftUI, that allows users to convert volume values from one unit to another.</p>
 </span>
 <h2>Features</h2>
